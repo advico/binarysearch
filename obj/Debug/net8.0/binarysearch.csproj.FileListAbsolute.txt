@@ -1,0 +1,14 @@
+C:\Users\adria\binarysearch\bin\Debug\net8.0\binarysearch.exe
+C:\Users\adria\binarysearch\bin\Debug\net8.0\binarysearch.deps.json
+C:\Users\adria\binarysearch\bin\Debug\net8.0\binarysearch.runtimeconfig.json
+C:\Users\adria\binarysearch\bin\Debug\net8.0\binarysearch.dll
+C:\Users\adria\binarysearch\bin\Debug\net8.0\binarysearch.pdb
+C:\Users\adria\binarysearch\obj\Debug\net8.0\binarysearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\binarysearch\obj\Debug\net8.0\binarysearch.AssemblyInfoInputs.cache
+C:\Users\adria\binarysearch\obj\Debug\net8.0\binarysearch.AssemblyInfo.cs
+C:\Users\adria\binarysearch\obj\Debug\net8.0\binarysearch.csproj.CoreCompileInputs.cache
+C:\Users\adria\binarysearch\obj\Debug\net8.0\binarysearch.dll
+C:\Users\adria\binarysearch\obj\Debug\net8.0\refint\binarysearch.dll
+C:\Users\adria\binarysearch\obj\Debug\net8.0\binarysearch.pdb
+C:\Users\adria\binarysearch\obj\Debug\net8.0\binarysearch.genruntimeconfig.cache
+C:\Users\adria\binarysearch\obj\Debug\net8.0\ref\binarysearch.dll
